@@ -1,4 +1,7 @@
 (module Bosch_LGA-8_2.5x2.5mm_Pitch0.65mm (layer F.Cu) (tedit 59DF82F7)
+  (descr LGA-8)
+  (tags "lga land grid array")
+  (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
